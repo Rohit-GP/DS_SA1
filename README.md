@@ -33,3 +33,5 @@ NAME :  ROHIT GP
 
 REGISTER NUMBER : 212224220082
 
+# Result:
+ Basic operations on the dataset were successfully performed using pandas and NumPy. The data was cleaned by handling missing values and removing duplicates.
